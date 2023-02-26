@@ -6,5 +6,8 @@ public class EclipseTest {
 		// TODO Auto-generated method stub
 
 	}
+	public static void eclipse(){
+		System.out.println("Hi");
+	}
 
 }
